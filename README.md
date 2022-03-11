@@ -1,5 +1,5 @@
-##Interpreter
+# Interpreter
 
-#How to run it
+## How to run it
 
-    >python3 main.py a.lang
+    python3 main.py a.lang
